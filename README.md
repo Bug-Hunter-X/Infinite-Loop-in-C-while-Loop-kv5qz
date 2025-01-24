@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates an off-by-one error in a `while` loop resulting in an infinite loop. The solution demonstrates the correct implementation. The problem highlights a common mistake in loop control.  The bug is subtle and can be difficult to spot for beginner programmers.
